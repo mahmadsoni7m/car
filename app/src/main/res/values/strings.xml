@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SONI CARD</string>
+
+    <!-- General -->
+    <string name="demo">DEMO</string>
+    <string name="continue_btn">Continue</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="done">Done</string>
+    <string name="see_all">See all</string>
+    <string name="search">Search</string>
+
+    <!-- Splash & Onboarding -->
+    <string name="splash_loading">SONI CARD is loading</string>
+    <string name="onboarding_title_1">One wallet for everything</string>
+    <string name="onboarding_desc_1">Cards, transfers and payments in a single, clean place.</string>
+    <string name="onboarding_title_2">Send in seconds</string>
+    <string name="onboarding_desc_2">Transfer to any phone number in a few taps.</string>
+    <string name="onboarding_title_3">Pay without the queue</string>
+    <string name="onboarding_desc_3">Utilities, mobile, internet — all from your pocket.</string>
+    <string name="skip">Skip</string>
+    <string name="get_started">Get Started</string>
+    <string name="next">Next</string>
+
+    <!-- Auth -->
+    <string name="login_welcome">Welcome back</string>
+    <string name="login_subtitle">Sign in to your SONI CARD account</string>
+    <string name="phone_number">Phone number</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="no_account">Don\'t have an account? Create one</string>
+    <string name="create_account">Create account</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="terms_agree">I agree to the Terms of Service and Privacy Policy</string>
+    <string name="have_account">Already have an account? Sign in</string>
+
+    <!-- Home -->
+    <string name="greeting_morning">Good morning</string>
+    <string name="greeting_afternoon">Good afternoon</string>
+    <string name="greeting_evening">Good evening</string>
+    <string name="total_balance">Total balance</string>
+    <string name="add_money">Add money</string>
+    <string name="send">Send</string>
+    <string name="pay">Pay</string>
+    <string name="quick_actions">Quick actions</string>
+    <string name="recent_transactions">Recent transactions</string>
+    <string name="demo_topup">Demo top-up added</string>
+    <string name="simulate_topup">Simulate top-up</string>
+
+    <!-- Cards -->
+    <string name="my_cards">My Cards</string>
+    <string name="freeze_card">Freeze Card</string>
+    <string name="card_frozen">FROZEN</string>
+    <string name="card_details">Card Details</string>
+    <string name="add_card">Add Card</string>
+    <string name="card_frozen_msg">Card frozen (demo)</string>
+    <string name="card_active_msg">Card active (demo)</string>
+    <string name="card_security_note">Full card number is never stored on this device.</string>
+
+    <!-- Transfers & Payments -->
+    <string name="send_money">Send money</string>
+    <string name="recipient_phone">Recipient phone</string>
+    <string name="amount">Amount</string>
+    <string name="description">Description</string>
+    <string name="from_card">From card</string>
+    <string name="demo_transfer_warning">This is a simulated transfer. No real money will be sent.</string>
+    <string name="transfer_success">Transfer simulated</string>
+    <string name="payments">Payments</string>
+    <string name="mobile_services">Mobile services</string>
+    <string name="internet">Internet</string>
+    <string name="utilities">Utilities</string>
+    <string name="other_services">Other services</string>
+
+    <!-- History -->
+    <string name="history">History</string>
+    <string name="all_tx">All</string>
+    <string name="incoming">Incoming</string>
+    <string name="outgoing">Outgoing</string>
+    <string name="no_transactions">No transactions yet</string>
+    <string name="demo_receipt">Simulated transaction for demonstration purposes.</string>
+
+    <!-- Profile & Notifications -->
+    <string name="profile">Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="security">Security</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="language">Language</string>
+    <string name="about">About SONI CARD</string>
+    <string name="logout">Logout</string>
+    <string name="logout_confirm">Sign out of SONI CARD?</string>
+    <string name="notifications">Notifications</string>
+    <string name="mark_all_read">Mark all read</string>
+    <string name="all_caught_up">You\'re all caught up</string>
+    <string name="notifications_empty_desc">Notifications about your activity will appear here</string>
+    <string name="prototype_footer">v0.1.0 · DEMO BUILD</string>
+</resources>
